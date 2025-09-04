@@ -1,6 +1,7 @@
 # AI Recruiter Voice Agent: Transforming Hiring with AI
 
-![AI Recruiter Screenshot](./1366c98d-5561-4d76-8f82-f2bc1e5796a0.png)
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/ca87d8dd-e447-4f54-a419-55aee02d7339" />
+
 
 **Jul 2025**
 
